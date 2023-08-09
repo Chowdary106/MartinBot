@@ -913,11 +913,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=SUPPORT_CHAT),
+                              InlineKeyboardButton('Main Gʀᴏᴜᴘ', url=SUPPORT_CHAT),
                               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                            ],[
-                              InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="telegram.me/Request_bots")
-                             ]
+                            ]
                             ]
                         )
                     )
@@ -1006,11 +1004,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=SUPPORT_CHAT),
+                  InlineKeyboardButton('Main Gʀᴏᴜᴘ', url=SUPPORT_CHAT),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                ],[
-                  InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="telegram.me/Request_bots")
-                 ]
+                ]
                 ]
             )
         )
