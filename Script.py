@@ -160,9 +160,7 @@ That's it!!! Enjoy Earning Money 💲
 
 [[[ Trusted Earning Site - https://bit.ly/krownlinks ]]]
 
-If you have any Doubts, Feel Free to Ask me - @Itz_me_444
-
-(Puriyala na intha bot la message pannunga - @Itz_me_444)
+If you have any Doubts, Feel Free to Ask me - @Chowdary106
 """
 
     REQINFO = """
