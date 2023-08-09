@@ -21,10 +21,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "6466129581:AAFYzkMqxddg8Bs37gycBlRIU0fdhE4
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/77e4e6f286f65ad90a328.jpg https://graph.org/file/538c36c488746c5fa99e8.jpg https://graph.org/file/1ec7e838abc7e26944510.jpg https://graph.org/file/c519c54518eb8e246a5ac.jpg https://graph.org/file/27ceeaa67c3534cc1c894.jpg https://graph.org/file/58e264b8b809409e36463.jpg https://graph.org/file/68d0a77ae4caa7f300047.jpg https://graph.org/file/b0eef7a194875ff6c97fa.jpg https://graph.org/file/cf210f0d9639db3b73b7d.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/6f55d902f9bf2d0afd4bb.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
+PICS = (environ.get('PICS', '')).split()
+NOR_IMG = environ.get("NOR_IMG", "")
+MELCOW_VID = environ.get("MELCOW_VID", "")
+SPELL_IMG = environ.get("SPELL_IMG", "")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1264280791').split()]
