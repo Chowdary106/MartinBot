@@ -7,7 +7,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Itz_me_444>☢ Owner Of MartinBotz ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/martinbot12>Martin Bot Updates 👾</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Chowdary_channels>Bot Updates 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
